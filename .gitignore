@@ -1,0 +1,9 @@
+source
+source_folder
+*.cab
+*.msi
+*.ini
+*.wxs
+*.lnk
+*.ico
+*~

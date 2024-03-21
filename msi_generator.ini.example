@@ -1,0 +1,7 @@
+[MAIN]
+company = MyApp Services GmbH
+app = MyApp
+version = 1.0
+source = source_folder
+desktop_shortcut = example.lnk
+icon_file = example.ico

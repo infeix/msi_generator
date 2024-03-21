@@ -27,7 +27,7 @@ This python script uses wix to create a .msi file from a folder with programm fi
 
 4. Clone Repository:
 
-    `git clone git@bitbucket.org:hvle-sda/msi_generator.git`
+    `git clone git@github.com:infeix/msi_generator.git`
 
 
 # Usage

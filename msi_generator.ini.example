@@ -1,5 +1,5 @@
 [MAIN]
-company = MyApp Services GmbH
+company = MyCompany
 app = MyApp
 version = 1.0
 source = source_folder
